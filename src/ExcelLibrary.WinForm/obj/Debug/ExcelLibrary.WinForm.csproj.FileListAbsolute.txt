@@ -1,0 +1,9 @@
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\bin\Debug\ExcelLibrary.WinForm.exe
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\bin\Debug\ExcelLibrary.WinForm.pdb
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\bin\Debug\ExcelLibrary.dll
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\bin\Debug\ExcelLibrary.pdb
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\obj\Debug\ExcelLibrary.WinForm.Form1.resources
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\obj\Debug\ExcelLibrary.WinForm.Properties.Resources.resources
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\obj\Debug\ExcelLibrary.WinForm.csproj.GenerateResource.Cache
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\obj\Debug\ExcelLibrary.WinForm.exe
+D:\Development\ExcelLibrary\src\ExcelLibrary.WinForm\obj\Debug\ExcelLibrary.WinForm.pdb

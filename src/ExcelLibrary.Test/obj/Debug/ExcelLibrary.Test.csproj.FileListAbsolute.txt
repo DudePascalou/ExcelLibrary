@@ -1,0 +1,10 @@
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\bin\Debug\ExcelLibrary.Test.dll
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\bin\Debug\ExcelLibrary.Test.pdb
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\bin\Debug\ExcelLibrary.dll
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\bin\Debug\nunit.framework.dll
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\bin\Debug\ExcelLibrary.pdb
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\obj\Debug\ExcelLibrary.Test.csprojResolveAssemblyReference.cache
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\obj\Debug\ExcelLibrary.Test.dll
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\obj\Debug\ExcelLibrary.Test.pdb
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\bin\Debug\NUnit.System.Linq.dll
+D:\Development\ExcelLibrary\src\ExcelLibrary.Test\bin\Debug\nunit.framework.xml

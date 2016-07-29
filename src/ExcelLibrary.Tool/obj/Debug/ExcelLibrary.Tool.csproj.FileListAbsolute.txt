@@ -1,0 +1,10 @@
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\bin\Debug\ExcelLibrary.Tool.exe
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\bin\Debug\ExcelLibrary.Tool.pdb
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\obj\Debug\ExcelLibrary.Tool.csprojResolveAssemblyReference.cache
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\obj\Debug\ExcelLibrary.Tool.MainForm.resources
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\obj\Debug\ExcelLibrary.Tool.Properties.Resources.resources
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\obj\Debug\QiHe.CodeLib.FileBrower.resources
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\obj\Debug\QiHe.CodeLib.FolderBrowser.resources
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\obj\Debug\ExcelLibrary.Tool.csproj.GenerateResource.Cache
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\obj\Debug\ExcelLibrary.Tool.exe
+D:\Development\ExcelLibrary\src\ExcelLibrary.Tool\obj\Debug\ExcelLibrary.Tool.pdb

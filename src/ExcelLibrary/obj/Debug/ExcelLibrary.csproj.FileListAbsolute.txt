@@ -1,0 +1,5 @@
+D:\Development\ExcelLibrary\src\ExcelLibrary\bin\Debug\ExcelLibrary.dll
+D:\Development\ExcelLibrary\src\ExcelLibrary\bin\Debug\ExcelLibrary.pdb
+D:\Development\ExcelLibrary\src\ExcelLibrary\obj\Debug\ExcelLibrary.csprojResolveAssemblyReference.cache
+D:\Development\ExcelLibrary\src\ExcelLibrary\obj\Debug\ExcelLibrary.dll
+D:\Development\ExcelLibrary\src\ExcelLibrary\obj\Debug\ExcelLibrary.pdb
